@@ -12,8 +12,8 @@
   <url>http://www.example.com</url>
   
   <scm>
-    <connection>scm:git:file://C:\formationmaven\TPs\TP3\monappli</connection>
-    <developerConnection>scm:git:file://C:\formationmaven\TPs\TP3\monappli</developerConnection>
+    <connection>scm:git:git://github.com/LouisDSL/Jour3.git</connection>
+    <developerConnection>scm:git:git://github.com/LouisDSL/Jour3.git</developerConnection>
     <url>https://github.com/LouisDSL/formation</url>
   </scm>
 
